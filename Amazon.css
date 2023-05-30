@@ -1,0 +1,308 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:0px;
+}
+.row1{
+     height:60px;
+     width:1279px;
+     color:white;
+     background-color:#000000;
+}
+
+.col1{
+    height:60px;
+    width:119px;
+    float:left;
+    margin-left:17px;
+}
+.logo{
+    width:100px;
+}
+.col2{
+    height:60px;
+    width:99px;
+    float:left;
+   
+}
+.col61{
+    height:18px;
+    width:15px;
+    float:left;
+    margin-top:25px;
+}
+.location{
+    height:18px;
+    width:15px;
+    filter:brightness(1000%)
+}
+.col62{
+    height:30px;
+    width:59px;
+    float:left;
+}
+.t{
+    font-size:14px;
+    font-family:inherit;
+}
+.col3{
+    height:60px;
+    width:678px;
+    float:left;
+}
+.col18{
+    height:40px;
+    width:103px;
+    border:solid 1px black;
+    float:left;
+    margin-top:8px;
+    background-color:white;
+    color:black;
+    margin-left:4px;
+}
+.col19{
+    height:40px;
+    width:510px;
+    border:solid 1px black;
+    float:left;
+    margin-top:8px;
+    background-color:white;
+}
+
+.col20{
+    height:40px;
+    width:45px;
+    border:solid 1px black;
+    float:left;
+    margin-top:8px;
+    background-color:white;
+    color:black;
+}
+
+.search{
+    height:40px;
+    width:45px;
+}
+.col4{
+    height:60px;
+    width:73px;
+    float:left;
+}
+.flag{
+    width:20px;
+    margin-top:25px;
+}
+.col5{
+    height:60px;
+    width:120px;
+    float:left;
+}
+.col6{
+    height:60px;
+    width:79px;
+    float:left;
+}
+.col7{
+    height:60px;
+    width:84px;
+    float:left;
+}
+.cart{ 
+    height:45px;
+ }
+    
+.row2{
+    height:39px;
+    width:1279px;
+    background-color:#0F1111;
+    color:white;
+}
+.c{
+    font-size:14px;
+    font-family:inherit;
+}
+.col8{
+    height:39px;
+    width:45px;
+    float:left;
+    margin-left:25px;
+}
+.col9{
+    height:39px;
+    width:102px;
+    float:left;
+}
+.col10{
+    height:39px;
+    width:128px;
+    float:left;
+}
+.col11{
+    height:39px;
+    width:69px;
+    float:left;
+}
+.col12{
+    height:39px;
+    width:81px;
+    float:left;
+}
+.col13{
+    height:39px;
+    width:41px;
+    float:left;
+}
+.col14{
+    height:39px;
+    width:160px;
+    float:left;
+    margin-left:620px;
+}
+.row3{
+    height:268px;
+    width:1259px;
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.image1{
+    height:268px;
+    width:1240px;
+}
+.row4{
+    height:315px;
+    width:1259px;
+    margin-left:20px;
+}
+.col31{
+    height:295px;
+    width:295px;
+    float:left;
+    border:solid 1px black;
+}
+.col90{
+    height:147px;
+    width:291px;
+ }
+.col91{
+    height:146px;
+    width:145px;
+    border:solid 1px white;
+    float:left;
+ }
+ .col92{
+    height:146px;
+    width:145px;
+    float:left;
+    border:solid 1px white;
+ }
+ 
+ .col93{
+    height:147px;
+    width:291px;
+ }
+ .col94{
+    height:146px;
+    width:145px;
+    border:solid 1px white;
+    float:left;
+ }
+ .col95{
+    height:146px;
+    width:145px;
+    float:left;
+    border:solid 1px white;
+ }
+ 
+ .jewellery{
+    height:146px;
+    width:145px;
+}
+.image3{
+    height:294px;
+}
+.col32{
+    height:294px;
+    width:295px;
+    float:left;
+    margin-left:20px;
+}
+.col35{
+    height:294px;
+    width:295px;
+    float:left;
+}
+.col36{
+    height:294px;
+    width:295px;
+    float:left;
+    margin-left:20px;
+}
+
+.row5{
+    height:219px;
+    width:1239px;
+    margin-top:20px;
+    margin:auto;
+}
+.image2{
+    height:219px;
+    width:1243px;
+}
+.row6{
+    height:49px;
+    width:1279px;
+    text-align:center;
+    background-color:#2c3c4b;
+    color:white;
+    border:solid 1px black;
+    margin-top:80px;
+    font-size:14px;
+}
+.row7{
+    height:400px;
+    width:1279;
+    background-color:#232f3e;
+    color:white;
+    font-size:14px;
+}
+
+.col50{
+    height:318px;
+    width:1000px;
+    margin-left:140px;
+}
+.col21{
+    height:318px;
+    width:136px;
+    float:left;
+ }
+.col22{
+    height:318px;
+    width:184px;
+    float:left;
+}
+.col23{
+    height:318px;
+    width:222px;
+    float:left;
+  }
+.col24{
+    height:318px;
+    width:142px;
+    float:left;
+}
+.col{
+    font-family:inherit;
+    margin-top:10px;
+}
+.s{
+    width:100px;
+    height:318px;
+    float:left;
+}
+ 
+    
+    
+    
